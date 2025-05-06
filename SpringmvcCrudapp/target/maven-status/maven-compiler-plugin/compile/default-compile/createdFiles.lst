@@ -1,0 +1,6 @@
+com\springmvccrudapp\servicei\StudentServiceI.class
+com\springmvccrudapp\serviceiml\StudentServiceImpl.class
+com\springmvccrudapp\model\Student.class
+com\springmvccrudapp\controller\HomeController.class
+com\springmvccrudapp\daoi\StudentDaoI.class
+com\springmvccrudapp\daoiml\StudentDaoImpl.class
